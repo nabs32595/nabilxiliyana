@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="jumbotron">wedding love love</div>
+    <div class="jumbotron">Staging</div>
   </div>
 </template>
 
